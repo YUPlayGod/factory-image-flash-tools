@@ -7,7 +7,7 @@ Package with tools to flash factory images on YUREKA
 
  2. Extract the contents of the fastboot package into a folder.
 
- 3. Download this flashing tools package from (link here)
+ 3. Download this flashing tools package from [here](https://github.com/YUPlayGod/factory-image-flash-tools/archive/windows-flashtools.zip)
 
  4. Extract the contents of the flashing tools zip into the same folder    
     To make sure, check that system.img, boot.img etc files are in the same
