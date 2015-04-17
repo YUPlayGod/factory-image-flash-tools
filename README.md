@@ -1,5 +1,7 @@
-# factory-image-flash-tools
-Package with tools to flash factory images on YUREKA
+# factory-image-flash-tool
+Package with tools to flash 32-bit KITKAT factory images on YUREKA
+
+DO NOT FLASH THE KITKAT (32-bit) IMAGES IF YOU HAVE UPGRADED TO LOLLIPOP (64-bit)!!!!!
 
 ## How to
 ### Steps to flash factory image
@@ -7,7 +9,7 @@ Package with tools to flash factory images on YUREKA
 
  2. Extract the contents of the fastboot package into a folder.
 
- 3. Download this flashing tools package from [here](https://github.com/YUPlayGod/factory-image-flash-tools/archive/windows-flashtools.zip)
+ 3. Download this flashing tools package from [here](https://github.com/YUPlayGod/factory-image-flash-tools/archive/kitkat-windows-flashtools.zip)
 
  4. Extract the contents of the flashing tools zip into the same folder    
     To make sure, check that system.img, boot.img etc files are in the same
