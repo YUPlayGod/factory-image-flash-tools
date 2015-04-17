@@ -3,7 +3,7 @@ Package with tools to flash factory images on YUREKA
 
 ## How to
 ### Steps to flash factory image
- 1. Download the factory image fastboot package from [Here](http://builds.cyngn.com/factory/tomato/cm-11.0-XNPH05Q-tomato-signed-fastboot.zip)
+ 1. Download the factory image fastboot package for YU YUREKA from [Here](https://cyngn.com/support/)
 
  2. Extract the contents of the fastboot package into a folder.
 
