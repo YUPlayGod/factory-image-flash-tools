@@ -9,9 +9,10 @@ echo Wiping Data
 fastboot -i 0x1ebf  flash userdata userdata.img
 echo Flashing recovery
 fastboot -i 0x1ebf  flash recovery recovery.img
-echo Flashing model
+echo Flashing modem
 fastboot -i 0x1ebf  flash modem NON-HLOS.bin
 fastboot -i 0x1ebf  flash rpm rpm.mbn
+fastboot -i 0x1ebf  flash hyp hyp.mbn
 echo Flashing bootloader
 fastboot -i 0x1ebf  flash sbl1 sbl1.mbn
 fastboot -i 0x1ebf  flash tz tz.mbn
