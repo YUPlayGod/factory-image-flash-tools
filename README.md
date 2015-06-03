@@ -1,5 +1,5 @@
 # factory-image-flash-tool
-Package with tools to flash 32-bit KITKAT factory images on YUREKA
+Package with tools to flash 64-bit KITKAT factory images on YUREKA
 
 DO NOT FLASH THE KITKAT (32-bit) IMAGES IF YOU HAVE UPGRADED TO LOLLIPOP (64-bit)!!!!!
 
