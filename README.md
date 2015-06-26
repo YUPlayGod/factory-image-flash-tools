@@ -3,7 +3,11 @@
 This repo will contain tools and commands for flashing factory images (via fastboot) for all YU devices.
 
 YU YUREKA:
-KITKAT Flashing Steps & Files [here] (https://github.com/YUPlayGod/factory-image-flash-tools/tree/kitkat-windows-flashtools)
+-----------
+
+LOLLIPOP Flashing Steps & Files [here] (https://github.com/YUPlayGod/factory-image-flash-tools/tree/yureka-lollipop-windows-flashtools)
+
+KITKAT Flashing Steps & Files [here] (https://github.com/YUPlayGod/factory-image-flash-tools/tree/yureka-kitkat-windows-flashtools)
 
 
 #### 3rd Party Licenses
