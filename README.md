@@ -2,6 +2,15 @@
 
 This repo will contain tools and commands for flashing factory images (via fastboot) for all YU devices.
 
+
+
+YU YUPHORIA:
+-------------
+
+LOLLIPOP Flashing Steps & Files [here] (https://github.com/YUPlayGod/factory-image-flash-tools/tree/yuphoria-lollipop-windows-flashtools)
+
+
+
 YU YUREKA:
 -----------
 
