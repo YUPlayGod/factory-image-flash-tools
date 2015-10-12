@@ -1,25 +1,26 @@
 # factory-image-flash-tool
-Package with tools to flash 64-bit LOLLIPOP factory images on YUREKA
-
-DO NOT FLASH THE KITKAT (32-bit) IMAGES IF YOU HAVE UPGRADED TO LOLLIPOP (64-bit)!!!!!
+Package with tools to flash 32-bit STOCK ANDROID LOLLIPOP factory images on YUNIQUE
 
 ## How to
 ### Steps to flash factory image
- 1. Download the LOLLIPOP factory image fastboot package for YU YUREKA from [Here](https://cyngn.com/support/)
+ 1. Download the Stock Android LOLLIPOP factory image fastboot package for YU YUNIQUE from <here>
 
  2. Extract the contents of the fastboot package into a folder.
 
- 3. Download this flashing tools package from [here](https://github.com/YUPlayGod/factory-image-flash-tools/archive/yureka-lollipop-windows-flashtools.zip)
+ 3. Download this flashing tools package from [here](https://github.com/YUPlayGod/factory-image-flash-tools/archive/yunique-stock-android-lollipop-windows-flashtools.zip)
 
  4. Extract the contents of the flashing tools zip into the same folder    
     To make sure, check that system.img, boot.img etc files are in the same
     folder as flash-all.bat, fastboot.exe etc  
 
  5. Connect your phone in fastboot mode, steps for which are : -   
-  a. Power off your phone    
-  b. Press and hold the Volume Up key    
-  c. With the Volume Up key, connect the phone to your PC/Laptop with USB cable   
-  d. You can let go off the Volume Up key when Fastboot Mode is displayed on the screen    
+  a. Power off your phone   
+ 
+  b. Press volume UP and then press power button keeping Volume UP pressed, You will get a vibration and device will boot into recovery
+
+  c. Use volume UP and Volume down button to move up and down in the Menu and use Power button to select nay option.
+
+  d. Now select Reboot to Bootloader. Now you will enter Fastboot mode.
 
  6. Run flash-all.bat by double clicking on it.  
 
