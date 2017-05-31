@@ -5,7 +5,7 @@ Package with tools to flash 64-bit LOLLIPOP factory images on YUPHORIA
 ### Steps to flash factory image
  1. Download the LOLLIPOP factory image fastboot package for YU YUPHORIA from [Here](https://cyngn.com/support/)
  
- 2. (Linux only) Install fastboot in your system. 
+ 2. (Linux only) Install fastboot in your system.    
       (<code>sudo apt install android-tools-fastboot</code> for Ubuntu)
 
  3. Extract the contents of the fastboot package into a folder.
@@ -22,7 +22,7 @@ Package with tools to flash 64-bit LOLLIPOP factory images on YUPHORIA
   c. With the Volume Up key, connect the phone to your PC/Laptop with USB cable   
   d. You can let go off the Volume Up key when Fastboot Mode is displayed on the screen    
 
- 7. Follow this as per your Operating System. The flashing process will start after this.
+ 7. Follow this as per your Operating System. The flashing process will start after this.   
   a. Windows : Run flash-all.bat by double clicking on it.  
   b. Linux   : Run flash_all.sh in terminal (as root). The flashing process will start normally.
       (right click and select "Open in terminal" and there, do <code>sudo ./flash_all.sh</code>)
